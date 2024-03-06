@@ -1,5 +1,4 @@
-# Prasad Chavan's Personal Portfolio and Blog
-Link to live site: https://prasadchavan.me
+
 
 
 ## Features
@@ -16,10 +15,3 @@ Link to live site: https://prasadchavan.me
 - Tailwind CSS
 - Node JS
 
-## Contributing
-
-Contributions are welcome! If you have suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
-## Copyrights
-
-[© Prasad Chavan](https://github.com/prasad-chavan1) <a>2023</a>
